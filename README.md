@@ -36,13 +36,13 @@ Hello Guys, my name is Ashutosh Adhao, i am currently in final year you can conn
 - [Instagram](https://www.instagram.com/ashutoshadhao/)
 
 ## Screenshots
-
+### Create
 ![App Screenshot](./ScreenShots/Create.JPG)
-
+### Delete 
 ![App Screenshot](./ScreenShots/Delete.JPG)
-
+### Get All Contact 
 ![App Screenshot](./ScreenShots/Get_All_Contacts.JPG)
-
+### Get One Contact 
 ![App Screenshot](./ScreenShots/Get_One_Contact.JPG)
-
+### Update 
 ![App Screenshot](./ScreenShots/Update.JPG)
