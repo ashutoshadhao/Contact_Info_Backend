@@ -1,6 +1,6 @@
 # Contact Information Backend ( CURD Oparations )
 
-This Project is made using node js as server , mongodb as Database
+This Backend Project is done using Node.js as a server and MongoDB as a database 
 
 **See ScreenShots At Last**
 
